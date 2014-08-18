@@ -681,10 +681,10 @@
      <None Include="Assets\PlayMaker\Versions\readme.txt" />
      <None Include="Assets\Photon Unity Networking\changelog.txt" />
  <Reference Include="Photon3Unity3D">
- <HintPath>C:/Users/Game04/Documents/GitHub/Joy/Test/Assets/Photon Unity Networking/Plugins/PhotonNetwork/library/Photon3Unity3D.dll</HintPath>
+ <HintPath>C:/Users/WANSUI004/Documents/GitHub/Joy/Test/Assets/Photon Unity Networking/Plugins/PhotonNetwork/library/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="PlayMaker">
- <HintPath>C:/Users/Game04/Documents/GitHub/Joy/Test/Assets/PlayMaker/PlayMaker.dll</HintPath>
+ <HintPath>C:/Users/WANSUI004/Documents/GitHub/Joy/Test/Assets/PlayMaker/PlayMaker.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
